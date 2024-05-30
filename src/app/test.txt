@@ -1,0 +1,8 @@
+call("hello world")
+call("i world    ")
+call("asjdf      ")
+call(" afdj;lasdf") 
+call(" adjf  adjf")
+call("dk         ")
+call(" fdkja;fj  ")
+call("           ")

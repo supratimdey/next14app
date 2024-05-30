@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+-[] basic project woring fine
+-[] git is intgreated 
+
+
 First, run the development server:
 
 ```bash
